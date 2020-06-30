@@ -99,7 +99,7 @@ The modules are fine-tuned to fit the needs of the current learners please do co
         <td> TODO</td>
     </tr>
     <tr>
-        <td>Android Architecture components getting started</td>
+        <td>Android Architecture components</td>
         <td>
             <ol>
                 <li>
@@ -149,12 +149,6 @@ The modules are fine-tuned to fit the needs of the current learners please do co
         <td> TODO</td>
     </tr>
     <tr>
-        <td>Introduction to SQL</td>
-        <td>https://app.pluralsight.com/library/courses/723a9c4f-79d2-467e-9b1f-71654ccaa3a2</td>
-        <td>TODO</td>
-        <td> TODO</td>
-    </tr>
-    <tr>
         <td>SQLite</td>
         <td>
             <ol>
@@ -164,6 +158,10 @@ The modules are fine-tuned to fit the needs of the current learners please do co
                 </li>
                 <li>
                     Managing Android App Data with SQLite:TODO
+                </li>
+                <li>
+                    Introduction to SQL:
+                    https://app.pluralsight.com/library/courses/723a9c4f-79d2-467e-9b1f-71654ccaa3a2
                 </li>
             </ol>
         </td>
